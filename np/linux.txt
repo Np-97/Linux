@@ -1,2 +1,4 @@
-pwd - physical working directry
+pwd - physical working directory
 ls - list
+cd - change directory
+rm - remove
